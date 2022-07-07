@@ -1,0 +1,5 @@
+{
+    "editor.fontFamily": "Consolas, '微软雅黑', monospace",
+    "editor.fontSize": 17,
+    "editor.renderWhitespace": "boundary"
+}
